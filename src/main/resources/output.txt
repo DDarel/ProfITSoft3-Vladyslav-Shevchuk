@@ -1,0 +1,4 @@
+#1 Violation: CAR_CRASH Sum:3885600.0 MaxFee:2500.0
+#2 Violation: SPEEDING Sum:4917530.0 MaxFee:1340.0
+#3 Violation: NO_LICENCE Sum:2443221.0 MaxFee:1011.0
+#4 Violation: RED_LIGHT Sum:499800.0 MaxFee:340.0
